@@ -1,0 +1,25 @@
+{
+  "name": "nodejsproject2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andylang8445/NODEjsStudy.git#main"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Hongjun Yun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andylang8445/NODEjsStudy/issues"
+  },
+  "homepage": "https://github.com/andylang8445/NODEjsStudy/tree/main#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
